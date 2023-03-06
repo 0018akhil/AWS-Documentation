@@ -5,10 +5,10 @@ Computing services provided over the Internet (or "cloud"), whereby shared resou
 
 ### What is bandwidth, latency and throughput?
 
-** Bandwidth **
+- **Bandwidth**
 The maximum amount of data which can be passed in given amount of time.
-** Thoughput **
+- **Thoughput**
 The actual amount of data which is passed in given amount of time.
-** Latency **
+- **Latency**
 The time taken for a data to pass from one poin to another.
 [more details](https://www.techtarget.com/searchnetworking/feature/Network-bandwidth-vs-throughput-Whats-the-difference)
