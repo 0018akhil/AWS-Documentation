@@ -33,3 +33,11 @@ Private cloud means that the cloud infrastructure is provisioned for exclusive u
 A hybrid cloud is a cloud computing environment that uses a mix of combining a public and private cloud environment, like an on-premises data center, and public CSPs.
 [more details](https://aws.amazon.com/types-of-cloud-computing/)
 
+## AWS Global Infrastructure
+
+- **Region**
+AWS regions are data centers hosted across different geographical locations worldwide, each region is completely independent of one another.
+- **Availability zone**
+Within each region, there are multiple isolated locations known as Availability Zones. Multiple availability zones ensure high availability in case one of them goes down.
+- **Edge location**
+Edge locations are basically content delivery network which caches data and insures lower latency and faster delivery to the users in any location. They are located in major cities in the world.
