@@ -6,3 +6,5 @@
 - IAAS, PAAS, SAAS
 - Public, Private, and Hybrid
 - AWS Global Infrastructure
+
+### Day 2
