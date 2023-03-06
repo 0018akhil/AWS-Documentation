@@ -23,3 +23,13 @@ Providing platform where developers can create application or make changes to ap
 Selling application and database as a serive. Eg: Gmail, Slack, Microsoft Office 365
 [more details](https://www.zendesk.com/in/blog/what-is-paas/#georedirect)
 
+## What is Public, Private and Hybride cloud?
+
+- **Public**
+Public cloud is when you leverage cloud services over the open internet on hardware owned by the cloud provider, but its usage is shared by other companies.
+- **Private**
+Private cloud means that the cloud infrastructure is provisioned for exclusive use by a single organization.
+- **Hybride**
+A hybrid cloud is a cloud computing environment that uses a mix of combining a public and private cloud environment, like an on-premises data center, and public CSPs.
+[more details](https://aws.amazon.com/types-of-cloud-computing/)
+
